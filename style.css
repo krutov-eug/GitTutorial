@@ -14,3 +14,7 @@ b {
     color: #444444;
     padding-left: 20px;
 }
+img {
+    border: 18px solid #777777;
+    margin: 20px 100px;
+}
